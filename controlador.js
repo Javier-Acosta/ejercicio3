@@ -64,7 +64,7 @@
             default:
                 {
                     contadorErrores++;
-                    console.log(`cantidad de errores ${contadorErrores}`);
+                    console.log(`cantidad de errores ${contadorErrores} - ${totalErrores}`);
 
                 }
 
